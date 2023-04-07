@@ -1,5 +1,5 @@
 # About 
-- This project is Editor of text
+- This project is Pomodoro
 
 # Setups of Project
 - React for build frontend
