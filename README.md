@@ -8,7 +8,7 @@
 
 # How to run this projects
 ```sh
-git clone https://github.com/LeonardoBrambilla/MarkDownPreviewer.git
+git clone https://github.com/LeonardoBrambilla/Pomodoro.git
 npm install
 npm run server
 ```
