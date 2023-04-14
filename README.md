@@ -1,5 +1,6 @@
 # About 
 - This project is Pomodoro
+- You can view with this link: https://pomodoro-iz75.vercel.app/
 
 # Setups of Project
 - React for build frontend
